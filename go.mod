@@ -1,4 +1,4 @@
-module goUtils
+module github.com/shrddu/go-utils
 
 go 1.22
 
